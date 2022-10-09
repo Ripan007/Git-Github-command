@@ -1,2 +1,13 @@
-# Git-Github-command
-command used in daily scenario
+# command :
+- cd
+- mkdir
+- cd ..
+- cd .
+- ls
+- ls a
+- git clone {url}
+- git add
+- git commit -m ""
+- git push -u origin branch
+- git push origin master{branch} --force
+- git pull --rebase origin main{branch}
